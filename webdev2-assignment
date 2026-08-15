@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mountain Hiking</title>
+    <link rel="stylesheet" href="onyx.css">
+</head>
+
+<body>
+
+<header>
+    <nav>
+        <h3 class="logo">WE.ID</h3>
+
+        <div class="menu">
+            <a>Equipment</a>
+            <a>About us</a>
+            <a>Blog</a>
+        </div>
+
+        <a class="account">Account</a>
+    </nav>
+</header>
+
+
+<section class="hero">
+
+    <p>A HIKING GUIDE</p>
+
+    <h1>
+        Be Prepared For The<br>
+        Mountains And Beyond
+    </h1>
+<a>scroll down ↓ </a>
+</section>
+
+
+
+<section class="section">
+
+    <div class="number">
+        01
+    </div>
+
+    <div class="text">
+        <small>GET STARTED</small>
+
+        <h2>
+            What level of<br>
+            hiker are you?
+        </h2>
+
+        <p>
+            Discover your hiking level and prepare yourself
+            for the adventure. Learn the basics and choose
+            the right mountain trail.
+        </p>
+
+        <a>Read More →</a>
+    </div>
+
+
+    <img src="https://raw.githubusercontent.com/krzy-kd/Assignment_Web2_Flyer/refs/heads/main/my_assignment/assets/images/01.png">
+
+</section>
+
+
+
+
+<section class="section reverse">
+   
+    <div class="number">
+        02
+    </div>
+
+
+    <div class="text">
+
+        <small>HIKING ESSENTIALS</small>
+
+        <h2>
+            Picking the right<br>
+            Hiking Gear!
+        </h2>
+
+        <p>
+            The right equipment helps you stay safe and
+            comfortable during your journey.
+        </p>
+
+        <a>Read More →</a>
+        <img src="https://raw.githubusercontent.com/krzy-kd/Assignment_Web2_Flyer/refs/heads/main/my_assignment/assets/images/02.png">
+
+    </div>
+
+
+</section>
+
+
+
+
+
+<section class="section">
+
+
+    <div class="number">
+        03
+    </div>
+
+
+    <div class="text">
+
+        <small>HIKING TIPS</small>
+
+        <h2>
+            Understand Your<br>
+            Map & Timing
+        </h2>
+
+        <p>
+            Learn how to read maps, manage your time,
+            and prepare before reaching the summit.
+        </p>
+
+        <a>Read More →</a>
+
+    </div>
+
+
+    <img src="https://raw.githubusercontent.com/krzy-kd/Assignment_Web2_Flyer/refs/heads/main/my_assignment/assets/images/03.png">
+
+
+</section>
+
+
+
+
+<footer>
+
+    <h3>WE.ID</h3>
+    
+
+    <p>
+        <br><br>Get out there & discover your next 
+        slope, mountain & destinaton!
+    </p>
+
+
+    <div>
+        More on the Blog<br>
+        About Us<br>
+        Contact<br>
+        Privacy Policy
+    </div>
+
+
+</footer>
+
+
+
+</body>
+</html>
